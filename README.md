@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1><strong>EduArdO J HerNáNdeZ M</strong></h1>
+
+Hello everybody! I'm Eduardo, first, few years ago i studied electrical engineer but always i've interested in new technologys, now adays
 
 <!--
 **Edjhernandez/Edjhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
