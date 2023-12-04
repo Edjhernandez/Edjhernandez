@@ -1,4 +1,4 @@
-![banner](banner4.jpg)
+![banner](banner5.jpg)
 
 Hello everyone! 🤝 I am an electrical engineer 🤓 who has always been interested in using techs to resolve problems. A few years ago, I have been working with techs on web development, fortunately, my background in math and logical thinking from engineering helped me to advance fast and I feel very comfortable with coding for application development or learning new techs.
 
