@@ -1,8 +1,6 @@
-<h1><strong>EduArdO J HerNáNdeZ M</strong></h1>
-
 ![banner](banner4.jpg)
 
-Hello everybody! I'm Eduardo, first, few years ago i studied electrical engineer but always i've interested in new technologys, now adays
+Hello everyone! 🤝 I am an electrical engineer 🤓 who has always been interested in the use of techs to resolve problems. A few years ago, I have been working with techs on web development, fortunately, my background in math and logical thinking from engineering helped me to advance fast and I feel very comfortable with coding for application development or learning new techs.
 
 <!--
 **Edjhernandez/Edjhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
