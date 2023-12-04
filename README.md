@@ -1,6 +1,6 @@
 <h1><strong>EduArdO J HerNáNdeZ M</strong></h1>
 
-![banner](prueba2.png)
+![banner](banner3.png)
 
 Hello everybody! I'm Eduardo, first, few years ago i studied electrical engineer but always i've interested in new technologys, now adays
 
